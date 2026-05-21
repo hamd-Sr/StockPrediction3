@@ -1,0 +1,10 @@
+streamlit
+streamlit-autorefresh
+yfinance
+pandas
+numpy
+scikit-learn
+plotly
+kiteconnect
+# optional:
+# lightgbm
